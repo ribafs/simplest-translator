@@ -1,2 +1,3 @@
 # simplest-translator
-Um tradutor minimalista usando PHP
+
+Um tradutor bem simples usando PHP
